@@ -1,0 +1,7 @@
+{
+  "name": "milkshop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
